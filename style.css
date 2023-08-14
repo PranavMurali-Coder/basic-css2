@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: antiquewhite;
+    font-size: 2rem;
+}
+
+
+.one{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: antiquewhite;
+    text-align: center;
+    font-family: "Tilt Prism",serif;
+}
+
+.two{
+    border: 5px solid white;
+    width: 100%;
+    height: 100%;
+}

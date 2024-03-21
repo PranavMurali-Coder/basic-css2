@@ -1,2 +1,2 @@
-# Basic-Css2
-This is a basic CSS project that deals with margin-padding-border.
+# Basic CSS-2
+This is one of my inital projects in which I practised ```CSS3```
